@@ -1,4 +1,4 @@
-# undergrad-python
+# Undergrad Python Projects
 
 ## Flight Data Analysis
 Used prominent machine learning and statistical analysis libraries NumPy, Pandas, and Matplotlib to analyze flight data from LAX in 2004. Created advanced graphs and visualizations of the flight data and trends. A csv can also be found in the folder.
