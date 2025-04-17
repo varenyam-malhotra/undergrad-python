@@ -32,3 +32,6 @@ Deals with analyzing and helping to conclude several aspects of material science
 
 ## isPrime
 Program to determine if a user-entered number is prime or not.
+
+## Shapes
+Used classes and inheritance to define several different shapes and their attributes. Defined an overarching polygon shape class and then subclasses such as right triangles, rectangles, and circles.
