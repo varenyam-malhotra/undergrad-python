@@ -27,7 +27,7 @@ Raised several errors and performed several mathematical calculations while demo
 ## Project A
 Draws a bluejay at several random locations using several complex mathematical methods to draw the different shapes that a bluejay comprises of. Used the math and random modules to draw circles and triangles and position them at different places as well as draw beaks, heads, tails, and specifiy colors such as black, blue, yellow, and green. 
 
-## Triangle Perimeter Area Python
+## Triangle Perimeter and Area Python
 Determines perimeter and area for a triangle with any side lengths (user-entered values).
 
 ## Project B
