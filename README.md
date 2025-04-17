@@ -21,10 +21,14 @@ Uses the Gaussian probability function and its involved mathematical operations.
 ## Exception Handling
 Raised several errors and performed several mathematical calculations while demonstrating familiarity with exception handling.
 
+## Project A
+Draws a bluejay at several random locations using several complex mathematical methods to draw the different shapes that a bluejay comprises of. Used the math and random modules to draw circles and triangles and position them at different places as well as draw beaks, heads, tails, and specifiy colors such as black, blue, yellow, and green. 
+
 ## Triangle Perimeter Area Python
 Determines perimeter and area for a triangle with any side lengths (user-entered values).
 
 ## Project B
 Deals with analyzing and helping to conclude several aspects of material science, specifically bonding and bonding sites for several molecules. 
 
-
+## isPrime
+Program to determine if a user-entered number is prime or not.
