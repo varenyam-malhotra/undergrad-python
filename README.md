@@ -15,6 +15,9 @@ Deals with computing error between the numerically determined and analytically d
 ## MonteCarlo Methods Pi Approximation
 Used elements of MonteCarlo methods to approximate Pi.
 
+## Library
+Created a program to simulate a library and some of its many functions. There is a Book class that enables users to check in and check out books based on isbn numbers, titles, and authors. Furthermore there is also a Member class to create lists of checked out books and also add or remove books by checking out or returning books based on member IDs and names. 
+
 ## Gaussian Probability
 Uses the Gaussian probability function and its involved mathematical operations. 
 
