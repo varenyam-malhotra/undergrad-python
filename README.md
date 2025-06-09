@@ -33,9 +33,6 @@ Draws a bluejay at several random locations using several complex mathematical m
 ## Triangle Perimeter and Area Python
 Determines perimeter and area for a triangle with any side lengths (user-entered values).
 
-## Project B
-Deals with analyzing and helping to conclude several aspects of material science, specifically bonding and bonding sites for several molecules. 
-
 ## isPrime
 Program to determine if a user-entered number is prime or not.
 
