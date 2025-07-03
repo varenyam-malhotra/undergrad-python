@@ -1,5 +1,8 @@
 # Undergrad Python Projects
 
+## Iris Flower Classifier (Machine Learning)
+Used machine learning-including k-means clustering (unsupervised learning) and classification using logistic regression and random forest (supervised learning) on the classic Iris dataset from scikit-learn. I classified iris flowers into three species (setosa, versicolor, virginica) based on on speal and petal length and width. My code for this program include dataset visualization with pairplots and cluster plots as well as grouping unlabeled flowers ans evaluating model accuracy and feature importance. 
+
 ## Flight Data Analysis
 Used prominent machine learning and statistical analysis libraries NumPy, Pandas, and Matplotlib to analyze flight data from LAX in 2004. Created advanced graphs and visualizations of the flight data and trends. A csv can also be found in the folder.
 
