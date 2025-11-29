@@ -1,8 +1,5 @@
 # Undergrad Python Projects
 
-## Predicting Heart Failure and Mortality Rates using Logistic Regression and Machine Learning
-Used machine learning-logistic regression-to predict heart failure and specifically mortality rate using the death_event feature and clinical data from the UC Irvine Machine Learning Repository. Began with data exploration and cleaning and visualizing data using pairplots and feature-correlation heatmaps, for correlation coefficient graphs. I standardized data and used the stratify option via the scikit-learn to create a train-test split to build and train the machine learning model. I evaluated the model to have a logistic regression test accuracy score of 0.727 and then refined hyperparameters, retrained the model, and then finally created a logistic regression coefficients graph to determine the effect of each feature on the probability of a heart failure/mortality death_event. 
-
 ## Flight Data Analysis
 Used prominent machine learning and statistical analysis libraries NumPy, Pandas, and Matplotlib to analyze flight data from LAX in 2004. Created advanced graphs and visualizations of the flight data and trends. A csv can also be found in the folder.
 
